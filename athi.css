@@ -1,0 +1,47 @@
+.border {
+    border: 1px solid purple;
+}
+.borderBlue {
+    border: 1px solid yellowgreen;
+}
+.row1, .row2, .row3 {
+    margin-bottom: 5px;
+}
+.marginRight {
+    margin-right: 5px;
+}
+.marginLeft {
+    margin-left: 5px;
+}
+.marginTop {
+    margin-top: 5px;
+}
+.marginBottom {
+    margin-Bottom: 4px;
+}
+.margin {
+    margin: 300px 200px;
+}.border {
+    border: 50px solid black;
+}
+.borderBlue {
+    border: 50px solid red;
+}
+.row1, .row2, .row3 {
+    padding-bottom: 5px;
+}
+.paddingRight {
+    padding-right: 5px;
+}
+.paddingLeft {
+    padding-left: 6px;
+}
+.paddingTop {
+    padding-top: 4px;
+}
+.paddingBottom {
+    padding-Bottom: 4px;
+}
+.padding {
+    padding: 1px 3px;
+}
