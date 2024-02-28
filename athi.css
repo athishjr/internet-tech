@@ -45,3 +45,43 @@
 .padding {
     padding: 1px 3px;
 }
+
+
+.container {
+    box-sizing: border-box;
+    height: 500px;
+    width: 100%;
+    border: 1px solid gray;
+    padding: 1em;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: start;
+    gap: 1em;
+    flex-wrap: wrap;
+}
+.centerFlex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.cell {
+    border: 1px solid teal;
+}
+.one {
+    width: 40%;
+    height: 25%;
+}
+.two {
+    width: 40%;
+    height: 25%;
+}
+.three {
+    width: 20%;
+    height: 25%;
+}
+
+img{
+    height: 70px;
+    width: 70px;
+}
