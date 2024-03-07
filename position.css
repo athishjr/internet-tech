@@ -1,0 +1,51 @@
+.container{
+    position: relative;
+    border: 2px solid green;
+    margin-top: 100px;
+    height: 200px;
+    overflow:auto;
+
+}
+
+.cell{
+    border: 10px solid red;
+    margin: 1em;
+    padding: 1em;
+}
+
+.item1{
+    position: relative;
+    left: -10px;
+    top: 10px;
+    width: 20px;
+    
+}
+
+.item2{
+    position:absolute;
+    left: 50px;
+    top: 140px;
+
+}
+
+.item3{
+    position: fixed;
+    left: 50px;
+    top: 140px;
+    width: 500px;
+
+}
+
+.item4{
+    position: sticky;
+    top: 0px;
+    color: white;
+    background:green;
+    width: 60px;
+
+}
+
+.item5{
+    position: relative;
+    height: 500px;
+}

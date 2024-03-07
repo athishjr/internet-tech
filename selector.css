@@ -1,0 +1,11 @@
+h1 { color: orange; }
+h2.blue { color: violet; }
+.gray { color: green; }
+#golden { color: rgb(78, 218, 45); }
+.container :nth-child(2n) { background: yellow; }
+
+h1 { color: orange; }
+h2.blue { color: violet; }
+.gray { color: green; }
+#golden { color: rgb(78, 218, 45); }
+.container :nth-child(5n) { background: yellow; }
